@@ -1,4 +1,5 @@
-### Hi 
+well the first day was grand we had a tour and a introduction 
+the second day was better because we started working on command lines and github in the morining then after lunch we did a microbit workshop which was good
 
 <!--
 **1anthony23/1anthony23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
