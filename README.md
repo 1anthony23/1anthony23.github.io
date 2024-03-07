@@ -1,5 +1,7 @@
-well the first day was grand we had a tour and a introduction 
-the second day was better because we started working on command lines and github in the morining then after lunch we did a microbit workshop which was good
+well the first day was grand we had a tour and a introduction.
+The second day was better because we started working on command lines and github in the morining then after lunch we did a microbit workshop which was good.
+The third day was also good because we made a roller coaster to help us on team buliding we also had talks about ai and student/collage life.
+
 
 <!--
 **1anthony23/1anthony23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
